@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CosmDandy
-- 👀 I’m interested in DataScience
-- 🌱 I’m currently learning Machine Learning
+- 👀 I’m interested in Machine Learning and DataScience
+- 🌱 I’m currently learning Classical ML, DL
 - 📫 How to reach me tkondrashin@icloud.com
 - 💞️ I’m looking to collaborate on ML products
 <!---
