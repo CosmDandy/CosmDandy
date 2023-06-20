@@ -1,9 +1,9 @@
 # 👋 Hi there, I’m CosmDandy
 
-- 👀 I’m interested in Machine Learning and DataScience
-- 🌱 I’m currently learning Classical ML, DL
-- 📫 How to reach me tkondrashin@yandex.ru / tkondrashin@icloud.com
-- 💞️ I’m looking to collaborate on ML products
+- 📖 I’m interested in Machine Learning and DataScience.
+- 💻 I’m currently learning Classical Machine Learning and Deep Learning.
+- 📥 You can reach me via tkondrashin@yandex.ru or tkondrashin@icloud.com.
+- 🤝️ I’m looking to collaborate on ML products and researches, DataScience projects.
 
 <div id="badges" align="center">
   <a href="#">
