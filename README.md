@@ -18,10 +18,11 @@
 </div>
 
 ## CosmDandy Stats:
+
 <div align="center">
     <img src="https://streak-stats.demolab.com?user=CosmDandy&theme=graywhite&card_width=800">
-    <img src="https://github-readme-stats.vercel.app/api?username=CosmDandy&show_icons=true&theme=graywhite&rank_icon=github&border_color=ABABAB&card_width=800"
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CosmDandy&layout=compact&theme=graywhite&&border_color=ABABAB&card_width=800"
+    <img src="https://github-readme-stats.vercel.app/api?username=CosmDandy&show_icons=true&theme=graywhite&rank_icon=github&border_color=ABABAB&card_width=800">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CosmDandy&layout=compact&theme=graywhite&&border_color=ABABAB&card_width=800">
 </div>
 
 ## CosmDandy Stack:
