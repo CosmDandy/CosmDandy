@@ -19,9 +19,9 @@
 
 ## CosmDandy Stats:
 
-![GitHub Streak](https://streak-stats.demolab.com?user=CosmDandy&theme=graywhite&card_width=500)
-![CosmDandy's GitHub stats](https://github-readme-stats.vercel.app/api?username=CosmDandy&show_icons=true&theme=graywhite&rank_icon=github&border_color=ABABAB&card_width=500)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CosmDandy&layout=compact&theme=graywhite&&border_color=ABABAB&card_width=1004)
+![GitHub Streak](https://streak-stats.demolab.com?user=CosmDandy&theme=graywhite&card_width=800)
+![CosmDandy's GitHub stats](https://github-readme-stats.vercel.app/api?username=CosmDandy&show_icons=true&theme=graywhite&rank_icon=github&border_color=ABABAB&card_width=800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CosmDandy&layout=compact&theme=graywhite&&border_color=ABABAB&card_width=800)
 
 ## CosmDandy Stack:
 
