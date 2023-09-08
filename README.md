@@ -6,7 +6,7 @@
 - 🤝️ I’m looking to collaborate on ML products and researches, DataScience projects.
 
 <div id="badges" align="center">
-  <a href="#">
+  <a href="www.linkedin.com/in/cosmdandy">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://habr.com/ru/users/CosmDandy/">
